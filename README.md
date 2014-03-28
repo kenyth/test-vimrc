@@ -1,3 +1,7 @@
+kenyth's vimrc (Test)
+============
+Forked from vgod's vimrc.
+
 vgod's vimrc
 ============
 Author: Tsung-Hsiang (Sean) Chang <vgod@vgod.tw>
